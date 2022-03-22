@@ -1,5 +1,5 @@
 # Mars-Watch
-A one of-a-kind watch for Mars Solar Days
+An idea for a one of-a-kind watch for Mars Solar Days
 
 
 Operations Must including functioning at -40 
